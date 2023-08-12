@@ -8,6 +8,8 @@ public interface ListaEncadeada{
     public boolean excluirMeio(int posicao);
     public int obterDado(int posicao);
     public int obterTotalDeElementos();
+
+    /*teste de alteração no git*/
     
     /*Iterador obterIterador();*/
     @Override
