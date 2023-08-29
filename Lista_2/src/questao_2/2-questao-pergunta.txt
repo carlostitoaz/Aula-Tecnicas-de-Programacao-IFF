@@ -1,0 +1,4 @@
+2. Crie um TAD pilha com alocação sequencial de tamanho máximo igual a 20. Implemente todas as
+funcionalidades do TAD pilha do exercício anterior.
+Utilizar o mesmo programa teste do exercício anterior.
+Utilizar a mesma interface do exercício anterior para a implementação da classe

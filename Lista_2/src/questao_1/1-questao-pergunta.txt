@@ -1,0 +1,8 @@
+1.Crie um TAD pilha com alocação encadeada. Implemente as seguintes funcionalidades:
+(a) Empilhar elemento
+(b) Desempilhar elemento
+(c) Obter o topo
+(d) Verificar se a Pilha está vazia
+(e) Criar uma representação para o objeto contendo todos os dados existentes
+Criar um programa teste que fa¸ca uso de todas as funcionalidades.
+Utilizar uma interface para a implementação da classe
