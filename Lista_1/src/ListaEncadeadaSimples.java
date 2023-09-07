@@ -89,14 +89,12 @@ public class ListaEncadeadaSimples implements ListaEncadeada {
     //         No noAtual = this.noInicial;
     //         No noExcluir = null;
     //         int cont=0;
-
     //         //O "noAtual = noAtual.obterProximo()" começa pela posição [1], ele pula a posição [0].
     //         for(cont=1; ((cont < posicao) && (noAtual.obterProximo()!=null)); cont++){
     //             System.out.println("teste do for: "+cont+" - "+noAtual.obterDado());
     //             noAtual = noAtual.obterProximo();
     //             System.out.println("teste do for: "+cont+" - "+noAtual.obterDado());
     //         }
-
     //         if(cont==posicao){
     //             noExcluir = noAtual.obterProximo();
     //             noAtual.definirProximo(noExcluir.obterProximo());
@@ -105,10 +103,7 @@ public class ListaEncadeadaSimples implements ListaEncadeada {
     //         }
     //         return true;
     //     }
-
-
-    //     return false;
-        
+    //     return false;  
     // }
 
     public boolean excluirMeio(int posicaoExclusao){
@@ -134,7 +129,6 @@ public class ListaEncadeadaSimples implements ListaEncadeada {
         }
         return false;
     }
-
 
     //Reescrevendo o método para retornar um deterninado valor a partir de sua posição
     public int obterDado(int posicao) {
@@ -164,16 +158,6 @@ public class ListaEncadeadaSimples implements ListaEncadeada {
 		}
 		return "ListaEncadeada [ "+ elementos + "]";
 	}
-
-
-
-
-
-
-
-
-
-
 
     public boolean incluiCrescente() {
     if (noInicial == null || noInicial.obterProximo() == null) {
@@ -211,9 +195,6 @@ public class ListaEncadeadaSimples implements ListaEncadeada {
 
     return true;
 }
-
-    
-
 
 public boolean excluirNoValor(int valor){
     No noAtual = noInicial;
