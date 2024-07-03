@@ -1,0 +1,126 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "TestaPilha",
+            "request": "launch",
+            "mainClass": "questao_1.TestaPilha",
+            "projectName": "atividade2"
+        },
+        {
+            "type": "java",
+            "name": "TestaPilha(1)",
+            "request": "launch",
+            "mainClass": "questao_2.TestaPilha",
+            "projectName": "atividade2"
+        },
+        {
+            "type": "java",
+            "name": "TestaFila",
+            "request": "launch",
+            "mainClass": "questao_3.TestaFila",
+            "projectName": "atividade2"
+        },
+        {
+            "type": "java",
+            "name": "TestaFila(1)",
+            "request": "launch",
+            "mainClass": "questao_4.TestaFila",
+            "projectName": "atividade2"
+        },
+        {
+            "type": "java",
+            "name": "TestaPilha(2)",
+            "request": "launch",
+            "mainClass": "questao_1.pilhaEncadeada.TestaPilha",
+            "projectName": "atividade3"
+        },
+        {
+            "type": "java",
+            "name": "TestaPilha2",
+            "request": "launch",
+            "mainClass": "questao_1.pilhaEncadeada.TestaPilha2",
+            "projectName": "atividade3"
+        },
+        {
+            "type": "java",
+            "name": "TestaPilha(3)",
+            "request": "launch",
+            "mainClass": "questao_1.pilhaSequencial.TestaPilha",
+            "projectName": "atividade3"
+        },
+        {
+            "type": "java",
+            "name": "TestaPilha2(1)",
+            "request": "launch",
+            "mainClass": "questao_1.pilhaSequencial.TestaPilha2",
+            "projectName": "atividade3"
+        },
+        {
+            "type": "java",
+            "name": "TestaPilha3",
+            "request": "launch",
+            "mainClass": "questao_2.pilhaEncadeada.TestaPilha3",
+            "projectName": "atividade3"
+        },
+        {
+            "type": "java",
+            "name": "TestaPilha3(1)",
+            "request": "launch",
+            "mainClass": "questao_2.pilhaSequencial.TestaPilha3",
+            "projectName": "atividade3"
+        },
+        {
+            "type": "java",
+            "name": "TestaPilha(4)",
+            "request": "launch",
+            "mainClass": "questao_3.pilhaEncadeada.TestaPilha",
+            "projectName": "atividade3"
+        },
+        {
+            "type": "java",
+            "name": "TestaPilha(5)",
+            "request": "launch",
+            "mainClass": "questao_3.pilhaSequencial.TestaPilha",
+            "projectName": "atividade3"
+        },
+        {
+            "type": "java",
+            "name": "TestaFila(2)",
+            "request": "launch",
+            "mainClass": "questao_4.filaEncadeada.TestaFila",
+            "projectName": "atividade3"
+        },
+        {
+            "type": "java",
+            "name": "TestaFila2",
+            "request": "launch",
+            "mainClass": "questao_4.filaEncadeada.TestaFila2",
+            "projectName": "atividade3"
+        },
+        {
+            "type": "java",
+            "name": "TestaFila(3)",
+            "request": "launch",
+            "mainClass": "questao_4.filaSequencial.TestaFila",
+            "projectName": "atividade3"
+        },
+        {
+            "type": "java",
+            "name": "TestaFila2(1)",
+            "request": "launch",
+            "mainClass": "questao_4.filaSequencial.TestaFila2",
+            "projectName": "atividade3"
+        }
+    ]
+}

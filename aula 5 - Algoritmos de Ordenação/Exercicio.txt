@@ -1,0 +1,5 @@
+Adicionar ordenação na tarefa realizada na aula 2.
+
+Implementar três métodos de ordenação para ordenar a lista encadeada implementada na tarefa 2.
+
+Utilizar os métodos bolha, seleção e inserção.

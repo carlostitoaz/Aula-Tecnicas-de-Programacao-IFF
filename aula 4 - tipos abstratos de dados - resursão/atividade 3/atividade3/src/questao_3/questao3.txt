@@ -1,0 +1,3 @@
+Questão 3: Construa uma funcão, que use a estrutura pilha e verifique se o número de abre parênteses é igual ao número
+de fecha parênteses em uma expressão matemática. Utilize o tipo abstrato de dados pilha desenvolvido
+na questão anterior.

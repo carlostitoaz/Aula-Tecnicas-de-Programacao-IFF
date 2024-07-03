@@ -1,0 +1,4 @@
+Desenvolva uma função que receba três filas já inicializadas: filaOriginal, filaImpares e filaPares. 
+O objetivo é separar os valores contidos em filaOriginal, colocando os números pares em filaPares e 
+os números ímpares em filaImpares. Ao final da execução dessa função, a filaOriginal estará vazia. 
+No programa principal, após a execução da função, imprima os valores presentes em cada fila.

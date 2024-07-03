@@ -1,0 +1,4 @@
+Questão 1: Desenvolva uma funcão para testar se duas pilhas são iguais. Duas pilhas serão iguais se possuírem os
+mesmos elementos, na mesma ordem. Sua fun¸cão deverá retornar 1 para pilha1 = pilha2 e 0 para pilha1
+̸= pilha2. Fa¸ca um programa principal para testar a sua funcionalidade.
+Utilize o tipo abstrato de dados pilha desenvolvido anteriormente

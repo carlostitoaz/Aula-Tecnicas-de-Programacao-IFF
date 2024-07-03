@@ -1,0 +1,5 @@
+Adicionar funcionalidades na implementação de lista encadeada disponibilizada.
+
+- Incluir elemento em ordem crescente.
+
+- Excluir nó que possua um determinado dado.

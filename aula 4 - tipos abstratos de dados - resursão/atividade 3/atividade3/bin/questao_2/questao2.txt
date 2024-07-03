@@ -1,0 +1,5 @@
+Questão 2: Fa¸ca uma fun¸c˜ao para inverter a ordem dos elementos existentes em uma string. Utilize, obrigatoriamente,
+uma pilha como mem´oria tempor´aria para armazenar a string. Fa¸ca um programa principal para testar a
+sua funcionalidade, entre com uma frase de at´e 20 caracteres e a imprima ap´os a invers˜ao.
+Utilize o tipo abstrato de dados pilha desenvolvido anteriormente alterando-o para trabalhar com o tipo
+char
